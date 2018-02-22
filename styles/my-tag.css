@@ -1,5 +1,10 @@
 ﻿span.my-tag {
    background-color: #f0f0f0; 
    margin-left: 3px; 
+<<<<<<< HEAD
    margin-right: 3px;
 }
+=======
+   margin-right: 3px";
+}
+>>>>>>> b86ca46b1236336b7a004850b55f3ef6c08fd1d6
