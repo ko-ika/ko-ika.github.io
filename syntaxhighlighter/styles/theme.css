@@ -168,7 +168,7 @@
 .syntaxhighlighter {
   background-color: white !important; }
   .syntaxhighlighter .line.alt1 {
-    background-color: white !important; }
+    background-color: #f0f0f0 !important; }
   .syntaxhighlighter .line.alt2 {
     background-color: white !important; }
   .syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
