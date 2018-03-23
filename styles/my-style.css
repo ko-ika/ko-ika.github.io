@@ -1,32 +1,22 @@
 ﻿﻿span.my-html-tag {
-
    background-color: #f0f0f0;
- 
-   margin-left: 5px; 
-
+   margin-left: 5px;
    margin-right: 5px;
-
    padding-left: 5px;
 
    padding-right: 5px;
-   
+
 }
-
-
 
 pre.my-code {
-
    overflow: auto;
-
    resize: horizontal;
-
 }
+
 
 
 
 li.L0, li.L1, li.L2, li.L3,
 li.L5, li.L6, li.L7, li.L8 {
-
    list-style-type: decimal !important;
-
 }
