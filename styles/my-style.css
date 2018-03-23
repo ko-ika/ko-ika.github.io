@@ -1,15 +1,15 @@
-﻿﻿span.my-html-tag {
-   background-color: #f0f0f0;
-   margin-left: 3px;
-   margin-right: 3px;
+span.my-html-tag {
+    background-color: #f0f0f0;
+    margin-left: 3px;
+    margin-right: 3px;
 }
 
 pre.my-code {
-   overflow: auto;
-   resize: horizontal;
+    overflow: auto;
+    resize: horizontal;
 }
 
-li.L0, li.L1, li.L2, li.L3,
-li.L5, li.L6, li.L7, li.L8 {
-   list-style-type: decimal !important;
-}
+li.L0 li.L1 li.L2 li.L3 
+li.L4 li.L5 li.L6 li.L7 li.L8 {
+    list-style-type: decimal !important;
+} 
