@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿span.my-html-tag {
    background-color: #f0f0f0; 
    margin-left: 5px; 
@@ -16,4 +17,23 @@ pre.my-code {
 li.L0, li.L1, li.L2, li.L3,
 li.L5, li.L6, li.L7, li.L8 {
    list-style-type: decimal !important;
+=======
+
+span.my-html-tag {
+   background-color: #f0f0f0; 
+   margin-left: 3px; 
+   margin-right: 3px;
+   padding-left: 3px;
+   padding-right: 3px
+}
+
+pre.my-code {
+   overflow: auto;
+   resize: horizontal;
+}
+
+li.L0, li.L1, li.L2, li.L3,
+li.L5, li.L6, li.L7, li.L8 {
+   list-style-type: decimal !important;
+>>>>>>> ba97b7afa3f577f5980c2324913037232a3ec3ae
 }
